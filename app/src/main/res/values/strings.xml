@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Jobs Manager</string>
+    <string name="company_name">Company name</string>
+    <string name="manager_name">Manager name</string>
+    <string name="role">Role</string>
+    <string name="submit">Submit</string>
+    <string name="error_company_name">Please enter company name.</string>
+    <string name="error_enter_manager_name">Enter manager name.</string>
+    <string name="error_enter_company_role">Enter role in the company.</string>
+    <string name="loading">Loading…</string>
+    <string name="error_fetching_war_data">Error while fetching data. Please try again.</string>
+    <string name="get_salary">Get Salary</string>
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+    <string name="enter_your_feedback">Enter your feedback</string>
+    <string name="outside_the_range">Outside the range</string>
+    <string name="higher_than_predicted">Higher than predicted</string>
+    <string name="lower_than_predicted">Lower than predicted</string>
+    <string name="inside_the_range">Inside the range</string>
+    <string name="error_predicting_salary">Error while predicting salary. Please try again.</string>
+    <string name="predicted_salary">Your predicted salary is : \u20b9 %s</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit_null">Submit (Null Response)</string>
+    <string name="submit_null_note">Simulate an empty response(null)</string>
+    <string name="feed_submitted_successfully">Feedback submitted successfully.</string>
+</resources>
